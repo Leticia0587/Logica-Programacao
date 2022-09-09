@@ -10,7 +10,7 @@ programa
 		escreva("\nDigite um número: ")
 		leia(numero)
 
-		enquanto(numero>=0)
+		enquanto(numero>0)
 		{
 			somaNum += numero
 			qtdNum++ 
@@ -35,7 +35,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 316; 
+ * @POSICAO-CURSOR = 169; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
